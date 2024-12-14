@@ -42,12 +42,15 @@ The backend server will start and run on http://localhost:8080.
 - http://localhost:8080
 2. **Enter a unique username:**
 - You’ll be taken to the chat room interface.
+![username](https://github.com/user-attachments/assets/409d15a6-70c6-4700-be69-4dc51768ed44)
+
 
 3. **Join a chat room:**
 - You can join chat room .
 4. **Start chatting:**
 - Type your message in the input field and hit send.
 - Messages will be displayed in real-time.
+![Screenshot 2024-12-13 231310](https://github.com/user-attachments/assets/7689885e-330d-436c-bd52-25d917f040c6)
 
 **Additional Notes**
 
